@@ -1,0 +1,51 @@
+Exercitiul 2.
+Sanity: N=5
+1       2       3       4       5
+0       1       2       3       4
+0       0       1       2       3
+0       0       0       1       2
+0       0       0       0       1
+
+-rulat cu N=100, 1000 de repetitii si 1,2 si 4 threaduri
+Output correct on intensive test
+
+Timpi:
+-N=1500
+-1 thread: real    0m7.207s
+-2 threaduri: real    0m4.217s
+-4 threaduri: real    0m2.669s
+
+Exercitiul 4.
+Sanity: N=5
+1       2       3       4       5
+0       1       2       3       4
+0       0       1       2       3
+0       0       0       1       2
+0       0       0       0       1
+
+-rulat cu N=100, 1000 de repetitii si 1,2 si 4 threaduri
+Output correct on intensive test
+
+Timpi:
+-N=1500
+-1 thread: real    0m6.954s
+-2 threaduri: real    0m3.972s
+-4 threaduri: real    0m2.289s
+
+Exercitiul 6.
+Sanity: N=5
+1       2       3       4       5
+0       1       2       3       4
+0       0       1       2       3
+0       0       0       1       2
+0       0       0       0       1
+
+-rulat cu N=100, 1000 de repetitii si 1,2 si 4 threaduri
+Output correct on intensive test
+
+Timpi:
+-N=1500
+-1 thread: real    0m7.154s
+-2 threaduri: real    0m3.761s
+-4 threaduri: real    0m2.435s
+
